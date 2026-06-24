@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I am currently employed! <br>👯 creating new projects.<br>
+🔭 I am currently unemployed! <br>👯 creating new projects.<br>
  
 
 # 💻 Tech Stack:
