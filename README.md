@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-<br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=flat&logo=node.js&logoColor=339933) ![React](https://img.shields.io/badge/react-%23323330.svg?style=flat&logo=react&logoColor=%23F7DF1E)
+<br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=flat&logo=node.js&logoColor=339933) ![React](https://img.shields.io/badge/react-%23323330.svg?style=flat&logo=react&logoColor=%23F7DF1E)
 <br>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 <br>![PHP](https://img.shields.io/badge/PHP-335099?style=flat&logo=php&logoColor=white)
