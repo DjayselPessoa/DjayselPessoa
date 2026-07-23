@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 🔭 I am currently unemployed! <br>👯 creating new projects.<br>
- 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-<br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=flat&logo=node.js&logoColor=339933) ![React](https://img.shields.io/badge/react-%23323330.svg?style=flat&logo=react&logoColor=%23F7DF1E)
-<br>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-<br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-<br>![PHP](https://img.shields.io/badge/PHP-335099?style=flat&logo=php&logoColor=white)
-<br>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-<br>![Blender](https://img.shields.io/badge/Blender-b56d1a?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/UNITY-777f83?style=for-the-badge&logo=Unity&logoColor=white)
-<br>![Heroku](https://img.shields.io/badge/Heroku-73429b?style=for-the-badge&logo=heroku&logoColor=black) ![Render](https://img.shields.io/badge/Render-73429b?style=for-the-badge&logo=render&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PySide6 Qt](https://img.shields.io/badge/PySide6-Qt-green?style=flat&logo=qt&logoColor=white)
+<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<br>![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+<br>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+<br>![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+<br>![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ---
 <br>![Radiohead](https://img.shields.io/badge/Radiohead-acbbc3?style=for-the-badge&logo=Radiohead&logoColor=white) ![A Perfect Circle](https://img.shields.io/badge/A_Perfect_Circle-acbbc3?style=for-the-badge&logo=A_Perfect_Circle&logoColor=white) ![OPETH](https://img.shields.io/badge/Opeth-acbbc3?style=for-the-badge&logo=Opeth&logoColor=white) ![Tool](https://img.shields.io/badge/Tool-acbbc3?style=for-the-badge&logo=Tool&logoColor=white)
