@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💫 old
 -->
-# 💫 About Me:
+# 🌟 About Me:
 🔭 I am currently unemployed! <br>👯 creating new projects.<br> 👨‍👦 Ben's father
 
 ## 💻 Tech Stack:
