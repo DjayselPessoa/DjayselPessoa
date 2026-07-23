@@ -27,4 +27,7 @@ Here are some ideas to get you started:
 <br>![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 <br>![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ---
-<br>![Radiohead](https://img.shields.io/badge/Radiohead-acbbc3?style=for-the-badge&logo=Radiohead&logoColor=white) ![A Perfect Circle](https://img.shields.io/badge/A_Perfect_Circle-acbbc3?style=for-the-badge&logo=A_Perfect_Circle&logoColor=white) ![OPETH](https://img.shields.io/badge/Opeth-acbbc3?style=for-the-badge&logo=Opeth&logoColor=white) ![Tool](https://img.shields.io/badge/Tool-acbbc3?style=for-the-badge&logo=Tool&logoColor=white)
+<br>![Radiohead](https://img.shields.io/badge/Radiohead-cc0000?style=for-the-badge&logoColor=white)
+![A Perfect Circle](https://img.shields.io/badge/A_Perfect_Circle-f28e1c?style=for-the-badge&logoColor=white)
+![Opeth](https://img.shields.io/badge/Opeth-000000?style=for-the-badge&logoColor=gold)
+![Tool](https://img.shields.io/badge/Tool-1a1a1a?style=for-the-badge&logoColor=gold)
