@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 ![Skyrim](https://img.shields.io/badge/⚔_Skyrim-5A5A5A?style=flat&logoColor=white)
 ![PUBG](https://img.shields.io/badge/🔫_PUBG-F2A900?style=flat&logoColor=000000)
 ![StarCitizen](https://img.shields.io/badge/🛸_Star_Citizen-1B2A38?style=flat&logoColor=00AEEF)
+![ProjectZomboid](https://img.shields.io/badge/🧟_Project_Zomboid-355E3B?style=flat&logoColor=8FBC8F)
+
